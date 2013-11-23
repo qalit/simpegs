@@ -3,6 +3,7 @@
 	<name>simpegs</name>
 	<comment></comment>
 	<projects>
+		<project>CI_BASE</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>
