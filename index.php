@@ -18,6 +18,12 @@
  * NOTE: If you change these, also change the error_reporting() code below
  *
  */
+	define('APP_NAME', "SIMPEG");
+	define('ASSET', "assets/");
+	define('CSS', ASSET.'css/');
+	define('JS', ASSET.'js/');
+	define('IMAGES', ASSET.'img/');
+	define('ADMIN_LAYOUT', "admin_dashbord/");
 	define('ENVIRONMENT', 'development');
 /*
  *---------------------------------------------------------------
