@@ -2,10 +2,17 @@
 
 class Dashboard extends CI_Controller {
 
+	function __construct(){
+		parent::__construct();
+	}
+	
 	public function index()
 	{
-		$this->load->view('templates/index');
+		$this->load->view('com_dashboard/dashboard');
+		
 	}
+
+	
 }
 
 /* End of file welcome.php */

@@ -26,17 +26,17 @@
 	<script src="<?php echo site_url(); ?>assets/jqvmap/jqvmap/maps/jquery.vmap.germany.js" type="text/javascript"></script>
 	<script src="<?php echo site_url(); ?>assets/jqvmap/jqvmap/maps/jquery.vmap.usa.js" type="text/javascript"></script>
 	<script src="<?php echo site_url(); ?>assets/jqvmap/jqvmap/data/jquery.vmap.sampledata.js" type="text/javascript"></script>
-	<script src="<?php echo site_url(); ?>assets/jquery-knob/js/jquery.knob.js"></script>
-	<script src="<?php echo site_url(); ?>assets/flot/jquery.flot.js"></script>
-	<script src="<?php echo site_url(); ?>assets/flot/jquery.flot.resize.js"></script>
+	<script src="<?php echo site_url(); ?>assets/jquery-knob/js/jquery.knob.js" type="text/javascript"></script>
+	<script src="<?php echo site_url(); ?>assets/flot/jquery.flot.js" type="text/javascript"></script>
+	<script src="<?php echo site_url(); ?>assets/flot/jquery.flot.resize.js" type="text/javascript"></script>
 
-    <script src="<?php echo site_url(); ?>assets/flot/jquery.flot.pie.js"></script>
-    <script src="<?php echo site_url(); ?>assets/flot/jquery.flot.stack.js"></script>
-    <script src="<?php echo site_url(); ?>assets/flot/jquery.flot.crosshair.js"></script>
+    <script src="<?php echo site_url(); ?>assets/flot/jquery.flot.pie.js" type="text/javascript"></script>
+    <script src="<?php echo site_url(); ?>assets/flot/jquery.flot.stack.js" type="text/javascript"></script>
+    <script src="<?php echo site_url(); ?>assets/flot/jquery.flot.crosshair.js" type="text/javascript"></script>
 
-	<script src="<?php echo site_url(); ?>assets/js/jquery.peity.min.js"></script>
-	<script type="text/javascript" src="<?php echo site_url(); ?>assets/uniform/jquery.uniform.min.js"></script>
-	<script src="<?php echo site_url(); ?>assets/js/scripts.js"></script>
+	<script src="<?php echo site_url(); ?>assets/js/jquery.peity.min.js" type="text/javascript"></script>
+	<script src="<?php echo site_url(); ?>assets/uniform/jquery.uniform.min.js" type="text/javascript"></script>
+	<script src="<?php echo site_url(); ?>assets/js/scripts.js" type="text/javascript"></script>
 	<script>
 		jQuery(document).ready(function() {
 			// initiate layout and plugins
